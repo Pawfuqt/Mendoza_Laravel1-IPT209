@@ -7,7 +7,6 @@
   <p>
     <img src="https://img.shields.io/badge/👨‍💻_Developer-Ronbell_B._Abarquez-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=00ffff&logoWidth=25&style=plastic" alt="Developer" />
     <img src="https://img.shields.io/badge/📚_Course-BSIT_2D-00ffff?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0a0a0a&color=00ffff" alt="Course" />
-    <img src="https://img.shields.io/badge/🏫_University-CIT_U-00ffff?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0a0a0a&color=00ffff" alt="University" />
   </p>
 
   <!-- Tech Stack with Glow -->
@@ -127,6 +126,8 @@
 
 ### 🔐 Authentication Module
 
+<div align="center">
+
 | # | Action | Method | Description | Status |
 |:--|:-------|:-------|:------------|:------:|
 | 1 | Register Account | POST | Create new user account | ✅ |
@@ -134,11 +135,15 @@
 | 3 | Logout | POST | End user session | ✅ |
 | 4 | Reset Password | POST | Password recovery functionality | ✅ |
 
+</div>
+
 ---
 
 ### 👥 User Management
 
 #### 2.1 User Records
+
+<div align="center">
 
 | # | Action | Method | Description | Status |
 |:--|:-------|:-------|:------------|:------:|
@@ -147,11 +152,15 @@
 | 3 | Edit User Information | PUT/PATCH | Update user details | ✅ |
 | 4 | Delete User Record | DELETE | Remove user permanently | ✅ |
 
+</div>
+
 ---
 
 ### 📝 Applicant Management
 
 #### 3.1 Applicant Records
+
+<div align="center">
 
 | # | Action | Method | Description | Status |
 |:--|:-------|:-------|:------------|:------:|
@@ -160,11 +169,15 @@
 | 3 | Edit Applicant Information | PUT/PATCH | Modify applicant details | ✅ |
 | 4 | Delete Applicant Record | DELETE | Remove applicant from system | ✅ |
 
+</div>
+
 ---
 
 ### 🎓 Scholarship Management
 
 #### 4.1 Scholarship Programs
+<div align="center">
+
 
 | # | Action | Method | Description | Status |
 |:--|:-------|:-------|:------------|:------:|
@@ -172,6 +185,8 @@
 | 2 | Add Scholarship Program | POST | Create new scholarship | ✅ |
 | 3 | Update Scholarship Program | PUT/PATCH | Modify program details | ✅ |
 | 4 | Delete Scholarship Program | DELETE | Remove a program | ✅ |
+
+</div>
 
 ---
 
@@ -194,14 +209,22 @@
 
 ### 🏠 Public Routes
 
+<div align="center">
+
+
 | Method | Endpoint | Description |
 |:-------|:---------|:------------|
 | `POST` | `/api/register` | Create new user account |
 | `POST` | `/api/login` | Authenticate user |
 
+</div>
+
 ### 🔒 Protected Routes (Requires Bearer Token)
 
 #### User Management
+<div align="center">
+
+
 | Method | Endpoint | Description |
 |:-------|:---------|:------------|
 | `GET` | `/api/users` | List all users |
@@ -211,7 +234,12 @@
 | `DELETE` | `/api/users/{id}` | Delete user |
 | `POST` | `/api/logout` | End session |
 
+</div>
+
 #### Scholarship Management
+
+<div align="center">
+
 | Method | Endpoint | Description |
 |:-------|:---------|:------------|
 | `GET` | `/api/scholarships` | List all scholarships |
@@ -220,7 +248,12 @@
 | `PUT` | `/api/scholarships/{id}` | Update scholarship |
 | `DELETE` | `/api/scholarships/{id}` | Delete scholarship |
 
+</div>
+
 #### Applicant Management
+
+<div align="center">
+
 | Method | Endpoint | Description |
 |:-------|:---------|:------------|
 | `GET` | `/api/applicants` | List all applicants |
@@ -228,6 +261,8 @@
 | `GET` | `/api/applicants/{id}` | View applicant |
 | `PUT` | `/api/applicants/{id}` | Update applicant |
 | `DELETE` | `/api/applicants/{id}` | Delete applicant |
+
+</div>
 
 ---
 
