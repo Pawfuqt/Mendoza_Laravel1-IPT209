@@ -1,18 +1,13 @@
 <div align="center">
   
   <!-- Animated 3D Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00ff,50:00ffff,100:ff00ff&height=300&section=header&text=Ronbell%20B.%20Abarquez&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Scholarship%20Management%20System&descAlignY=65&descAlign=50" width="100%" alt="Header Banner" />
-  
-  <!-- Glowing Developer Badge -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+Specialist;API+Architect;Scholarship+Management+Expert" alt="Typing SVG" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00bfff,100:191970&height=300&section=header&text=Ronbell%20B.%20Abarquez&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Scholarship%20Management%20System&descAlignY=65&descAlign=50" width="100%">
   
   <!-- 3D Glowing Badges -->
   <p>
-    <img src="https://img.shields.io/badge/👨‍💻_Developer-Ronbell_B._Abarquez-ff00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=ff00ff&logoWidth=25&style=plastic" alt="Developer" />
+    <img src="https://img.shields.io/badge/👨‍💻_Developer-Ronbell_B._Abarquez-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=00ffff&logoWidth=25&style=plastic" alt="Developer" />
     <img src="https://img.shields.io/badge/📚_Course-BSIT_2D-00ffff?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0a0a0a&color=00ffff" alt="Course" />
-    <img src="https://img.shields.io/badge/🏫_University-CIT_U-ff00ff?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0a0a0a&color=ff00ff" alt="University" />
+    <img src="https://img.shields.io/badge/🏫_University-CIT_U-00ffff?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=0a0a0a&color=00ffff" alt="University" />
   </p>
 
   <!-- Tech Stack with Glow -->
@@ -22,7 +17,7 @@
 
   <!-- API Documentation Badge -->
   <p>
-    <a href="https://www.postman.com/your-workspace-link" target="_blank">
+    <a href="https://www.postman.com/ronbell112323-1778467/ronbell-abarquez-s-workspace/folder/52439620-018d84e4-8f01-40dc-bc80-4ba5d9b0f589?authuser=0&sideView=agentMode" target="_blank">
       <img src="https://img.shields.io/badge/📮_Postman_API_Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a0a&color=FF6C37&logoWidth=25" alt="Postman Collection" />
     </a>
   </p>
@@ -30,7 +25,6 @@
   <!-- Project Status with Neon Effect -->
   <p>
     <img src="https://img.shields.io/badge/🚀_Project_Status-Active-00ff00?style=for-the-badge&logo=circleci&logoColor=white&labelColor=0a0a0a&color=00ff00" alt="Project Status" />
-    <img src="https://komarev.com/ghpvc/?username=ronbell-scholarship&label=📊_Project_Views&color=ff00ff&style=for-the-badge" alt="Project Views" />
   </p>
 
 </div>
@@ -50,7 +44,7 @@
         Scholarship Management System
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/user.png" alt="Developer"/>
+		<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="24" height="24" alt="User"/>
         <br/>
         <b>Developer</b>
         <br/>
@@ -80,11 +74,11 @@
         <a href="https://github.com/ronbellabarquez/scholarship-system">GitHub Link</a>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/postman-api.png" alt="Postman"/>
+		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="24" height="24" alt="Postman"/>
         <br/>
         <b>Postman Workspace</b>
         <br/>
-        <a href="https://www.postman.com/your-workspace">Access Here</a>
+        <a href="https://www.postman.com/ronbell112323-1778467/ronbell-abarquez-s-workspace/folder/52439620-018d84e4-8f01-40dc-bc80-4ba5d9b0f589?authuser=0&sideView=agentMode">Access Here</a>
       </td>
     </tr>
   </table>
@@ -119,7 +113,6 @@
   
   ### Frontend
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0a0a0a)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0a0a0a)
   
   ### Tools & Testing
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a0a)
@@ -189,7 +182,7 @@
   | Entity | Description | Records |
   |:-------|:------------|:-------:|
   | `users` | System administrators and staff | Active |
-  | `roles` | User role definitions (Admin, Staff) | 2 |
+  | `roles` | User role definitions | 3 |
   | `scholarships` | Scholarship program details | Active |
   | `applicants` | Student scholarship applicants | Active |
 
