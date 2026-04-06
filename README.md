@@ -1,8 +1,25 @@
 <div align="center">
   
   <!-- Animated 3D Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00bfff,100:191970&height=300&section=header&text=Ronbell%20B.%20Abarquez&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Scholarship%20Management%20System&descAlignY=65&descAlign=50" width="100%">
-  
+<div align="center">
+  <table border="0" cellpadding="20" cellspacing="0" style="border-radius: 20px; background: linear-gradient(135deg, #0a0a2a, #1a1a3a); width: 100%;">
+    <tr>
+      <td align="center">
+        <h1 style="color: #ffffff; font-family: 'Courier New', monospace; font-size: 48px; margin: 0; text-shadow: 0 0 10px #00ffff;">🏆 Ronbell B. Abarquez 🏆</h1>
+        <h3 style="color: #00ffff; font-family: 'Courier New', monospace; font-size: 20px; margin: 10px 0;">⚡ Scholarship Management System ⚡</h3>
+        <p style="color: #ffd700; font-family: 'Courier New', monospace; font-size: 14px;">Laravel • PHP • MySQL • Bootstrap • Sanctum API</p>
+        <br>
+        <table border="0" cellpadding="5" align="center">
+          <tr>
+            <td><span style="background: #ff00ff; padding: 5px 15px; border-radius: 20px; color: white;">🔐 API Ready</span></td>
+            <td><span style="background: #00ffff; padding: 5px 15px; border-radius: 20px; color: #0a0a2a;">⚡ Fast</span></td>
+            <td><span style="background: #ffd700; padding: 5px 15px; border-radius: 20px; color: #0a0a2a;">🎓 Scholarship</span></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>  
   <!-- 3D Glowing Badges -->
   <p>
     <img src="https://img.shields.io/badge/👨‍💻_Developer-Ronbell_B._Abarquez-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=00ffff&logoWidth=25&style=plastic" alt="Developer" />
