@@ -56,7 +56,7 @@
     <tr>
       <td align="center" colspan="2" style="background: rgba(255,255,255,0.03); border-radius: 12px;">
         <b>GitHub Repository:</b><br/>
-        <a href="https://github.com/lecciones/Jay-Ric-Lecciones" style="color: #00ffff; text-decoration: none;">github.com/lecciones/Jay-Ric-Lecciones</a>
+        <a href="https://github.com/lecciones/Lecciones_Laravel1-IPT209" style="color: #00ffff; text-decoration: none;">github.com/lecciones/Jay-Ric-Lecciones</a>
       </td>
       <td align="center" style="background: rgba(255,255,255,0.03); border-radius: 12px;">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20"/><br/>
